@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Esprendsaa
 - 👀 I’m interested in Bitcoin
-- 🌱 I’m currently learning brute force
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me 🐈‍⬛
